@@ -1,11 +1,5 @@
 # 🛡️ Intrusion Detection Using Convolutional Neural Networks (CNN)
 
-Proyek ini membangun sistem **Intrusion Detection System (IDS)** menggunakan metode deep learning berbasis **Convolutional Neural Networks (CNN)**. Model ini dilatih untuk mendeteksi serangan jaringan komputer berdasarkan data nyata dari Kaggle.
-
----
-
-## 🧠 Tentang Proyek
-
 Intrusion Detection System (IDS) berfungsi untuk mengidentifikasi aktivitas berbahaya atau mencurigakan dalam lalu lintas jaringan. Dalam proyek ini, CNN digunakan untuk mengenali pola serangan dari data lalu lintas jaringan, khususnya berdasarkan dataset intrusi dari Kaggle.
 
 ---
