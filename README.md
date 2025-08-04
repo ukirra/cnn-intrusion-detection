@@ -1,10 +1,10 @@
-# 🛡️ Intrusion Detection Using Convolutional Neural Networks (CNN)
+# Intrusion Detection Using Convolutional Neural Networks (CNN)
 
 An Intrusion Detection System (IDS) is designed to identify malicious or suspicious activities within network traffic. In this project, a Convolutional Neural Network (CNN) is used to detect attack patterns in network traffic data, specifically using an intrusion dataset from Kaggle.
 
 ---
 
-## 🗂️ Notebook Contents
+## Notebook Contents
 
 This notebook includes:
 
@@ -31,11 +31,11 @@ This notebook includes:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 The dataset used in this project:
 
 🔗 [Network Intrusion Dataset](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)  
-📄 File: `Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv`
+File: `Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv`
 
 ---
